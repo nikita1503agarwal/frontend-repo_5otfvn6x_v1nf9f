@@ -7,7 +7,7 @@ const BackgroundScene = () => {
       {/* 3D Scene (Hero cover) */}
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/xW-uaUprkPUPPfRw/scene.splinecode"
+          scene="https://prod.spline.design/eCQ2E3PpnWVVY5aw/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
