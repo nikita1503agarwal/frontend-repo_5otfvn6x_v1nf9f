@@ -10,7 +10,7 @@ const Hero = () => {
         initial={{ opacity: 0, y: 24 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
-        className="text-center max-w-3xl"
+        className="text-center max-w-3xl relative z-10"
       >
         <h1 className="text-4xl md:text-6xl font-semibold tracking-tight" style={{ color: '#FFFFE3' }}>
           NeuroLedger
